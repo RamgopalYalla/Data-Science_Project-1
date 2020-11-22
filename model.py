@@ -55,8 +55,7 @@ parch:    # of parents / children aboard the Titanic
 ticket:    Ticket number     
 fare:    Passenger fare     
 cabin:    Cabin number     
-embarked:    Port of Embarkation
-    
+
     
 train_df.describe()
 
